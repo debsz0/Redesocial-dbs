@@ -5,6 +5,9 @@
     --primary-color: #17153B;
     --secundary-color:#180161;
     --font:"Silkscreen", sans-serif;
+}
 
+body{
+    background-color: var(--bg-color);
     
 }
